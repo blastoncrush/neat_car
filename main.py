@@ -9,11 +9,11 @@ import math
 
 pygame.font.init()
 # importing all pictures
-filename1 = "PIERRE_CUP_ZONED2.png"
-filename2 = "PIERRE_CUP_ZONED3.png"
-filename3 = "PIERRE_CUP_ZONED4.png"
-filename4 = "PIERRE_CUP_ZONED5.png"
-filename5 = "PIERRE_CUP_ZONED6.png"
+filename1 = "circuit0.png"
+filename2 = "circuit1.png"
+filename3 = "circuit2.png"
+filename4 = "circuit3.png"
+filename5 = "circuit4.png"
 trackpx1 = Image.open(filename1)
 trackpx2 = Image.open(filename2)
 trackpx3 = Image.open(filename3)
